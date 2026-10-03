@@ -10,7 +10,9 @@ A research book, and a Windows map of the research behind it, about getting usef
 
 ## The book
 
-**Version 9, about 124,000 words.** It stood at 66,000 at Version 4. Each version is rebuilt whole from the chapter files, and copies go to a Kindle Scribe for reading.
+<p align="center"><img src="cover.jpg" alt="Gradient Mining cover: a pickaxe striking a seam of crystal that runs from hot orange to cold blue" width="420"></p>
+
+**Version 11, about 120,700 words.** It stood at 66,000 at Version 4. Each version is rebuilt whole from the chapter files, and copies go to a Kindle Scribe for reading. Version 11 added the cover: a pickaxe striking a seam that runs from hot to cold, because the gradient is the ore.
 
 It is made for a reader who is not a trained engineer or scientist and teaches himself fast.
 
@@ -61,10 +63,10 @@ Plain Electron, with no framework and no build step. The database runs as WebAss
 
 ## Status
 
-The book is at Version 9. The app is version 0.1.0, for Windows. The code and the book are private.
+The book is at Version 11. The app is version 0.1.0, for Windows. The code and the book are private.
 
 ---
 
-**Built by Greygray with AI collaboration openly included in the process.**
+**Directed by Greygray. Produced by Solina and Claude.**
 
 Human judgment stays in the driver's seat.
